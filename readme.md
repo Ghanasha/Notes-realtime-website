@@ -2,7 +2,8 @@
 
 
 ## User Interface -
-![alt text](image.png)
+<img width="1918" height="1064" alt="image" src="https://github.com/user-attachments/assets/e241fe58-4f13-4cab-84a4-7aec2f9cccdb" />
+
 
 
 
